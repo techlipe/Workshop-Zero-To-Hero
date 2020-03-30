@@ -6,6 +6,14 @@ Uma hora por dia durante uma semana. Workshop Virtual sobre o Stack da Elastic (
 
 Aqui você encontrará toda a documentação oficial de todos os Workshops.
 
+**Cronograma**
+| Data | Assunto | Conceito	| Detalhes | Mentor
+| :---: | :---: | :---: | :---: | | :---: |
+| 06/04/2020 | Apresentação Elastic + Como começar com a Stack e Provisionar todo Ambiente | Elastic Stack | - Inicio do Workshop com apresentação da Priscilla sobre Elastic (30min)
+- Introdução teórica da solução de deploy na Nuvem (5 min)
+- Aprensetação prática do provisionamento do ambiente Elasticsearch + Kibana utilizando Docker Compose e Ansible (5 min)
+- Apresentação básica da interface HTTP rest do Elasticsearch e das aplicações do Kibana (20 min) | Anselmo Borges |
+
 **Pra quem é esse material ?** 
 - **TODO MUNDO** que participou do Workshop e também quem não conseguiu comparecer, aqui ta a documentação de todos os labs que fizemos nesses dias!
 
