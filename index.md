@@ -23,7 +23,7 @@ Ao final de cada dia de Workshop, todos os laboratórios serão liberados nesse 
 
 **Organizadores** 
 - Anselmo Borges, Especialista em dados, entusiasta Devops, faixa preta de Jiujitsu e campeão mundial de par ou impar. [linkedin](https://www.linkedin.com/in/anselmobd/) [github](https://github.com/anselmoborges) 
-- Felipe Queiroz, Embaixador e Engenheiro Certificado Elastic! [linkedin](https://www.linkedin.com/in/felipe-queiroz-b83042113/) [github](https://github.com/techlipe/)
+- Felipe Queiroz, Embaixador e Engenheiro Certificado da @Elastic! [linkedin](https://www.linkedin.com/in/felipe-queiroz-b83042113/) [github](https://github.com/techlipe/)
 
 **Apoio**
 - Priscilla Parodi, Advocate para @Elastic
