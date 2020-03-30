@@ -1,4 +1,4 @@
-| [Home](https://techlipe.github.io/workshop-zero-to-hero) | [Dia 01](https://techlipe.github.io/workshop-zero-to-hero/dia01-configuracoes) | [Dia 02]() | [Dia 03]() | [Dia 04]() | [Dia 05]() | 
+| [Home](https://techlipe.github.io/Workshop-Zero-To-Hero) | [Dia 01](https://techlipe.github.io/Workshop-Zero-To-Hero/dia01-configuracoes) | [Dia 02](https://techlipe.github.io/Workshop-Zero-To-Hero/dia02-observabilidade) | [Dia 03](https://techlipe.github.io/Workshop-Zero-To-Hero/dia03-elasticsearch) | [Dia 04](https://techlipe.github.io/Workshop-Zero-To-Hero/dia04-logstash) | [Dia 05](https://techlipe.github.io/Workshop-Zero-To-Hero/dia05-kibana) | 
 
 ## Elastic Virtual Week - Workshop: Zero to Hero
 
@@ -17,6 +17,9 @@ Aqui você encontrará toda a documentação oficial de todos os Workshops.
 - **Dataset**: Já deixar no esquema esse dataset porque utilizaremos mais pra frente.
 - **Arquivos apoio**: Baixe também esse arquivo aqui para nosso lab de Logstash.
 
+
+**Observações** 
+Ao final de cada dia de Workshop, todos os laboratórios serão liberados nesse site. Fique de olho!
 
 **Organizadores** 
 - Anselmo Borges, Especialista em dados, entusiasta Devops, faixa preta de Jiujitsu e campeão mundial de par ou impar. [linkedin](https://www.linkedin.com/in/anselmobd/) [github](https://github.com/anselmoborges) 
