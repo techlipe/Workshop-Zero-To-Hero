@@ -11,12 +11,10 @@ Aqui você encontrará toda a documentação oficial do Workshop que rolou no di
 - Abordar os conceitos iniciais dos principais produtos da Elastic e realizar laboratórios práticos com cada um dos produtos em cenários diferentes.
 
 **Antes de Começar** 
-```
-Infraestrutura: Estamos utilizando a Infra da GCP para provisionar o nosso servidor.
-Dataset: Já deixar no esquema esse dataset porque utilizaremos mais pra frente.
-Arquivos apoio: Baixe também esse arquivo aqui para nosso lab de logstash
+- Infraestrutura: Estamos utilizando a Infra da GCP para provisionar o nosso servidor.
+- Dataset: Já deixar no esquema esse dataset porque utilizaremos mais pra frente.
+- Arquivos apoio: Baixe também esse arquivo aqui para nosso lab de logstash
 
-```
 
 **Organizadores** 
 - Anselmo Borges, Especialista em dados, entusiasta Devops, faixa preta de Jiujitsu e campeão mundial de par ou impar. [linkedin](https://www.linkedin.com/in/anselmobd/) [github](https://github.com/anselmoborges) 
