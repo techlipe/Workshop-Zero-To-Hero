@@ -7,6 +7,7 @@ Uma hora por dia durante uma semana. Workshop Virtual sobre o Stack da Elastic (
 Aqui você encontrará toda a documentação oficial de todos os Workshops.
 
 **Cronograma**
+
 | Data | Assunto | Conceito	| Detalhes | Mentor
 | :---: | :---: | :---: | :---: | | :---: |
 | 06/04/2020 | Apresentação Elastic + Como começar com a Stack e Provisionar todo Ambiente | Elastic Stack | - Inicio do Workshop com apresentação da Priscilla sobre Elastic (30min)
