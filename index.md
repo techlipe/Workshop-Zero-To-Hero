@@ -1,4 +1,4 @@
-| [Home](https://techlipe.github.io/workshop-zero-to-hero) | [Dia 01]() | [Dia 02]() | [Dia 03]() | [Dia 04]() | [Dia 05]() | 
+| [Home](https://techlipe.github.io/workshop-zero-to-hero) | [Dia 01](https://techlipe.github.io/workshop-zero-to-hero/dia01-configuracoes) | [Dia 02]() | [Dia 03]() | [Dia 04]() | [Dia 05]() | 
 
 ## Elastic Virtual Week - Workshop: Zero to Hero
 
