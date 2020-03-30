@@ -1,4 +1,4 @@
-| [Home](https://techlipe.github.io/workshop-zero-to-hero) | [Dia 01](https://techlipe.github.io/workshop-zero-to-hero/dia01-configuracoes) | [Dia 02]() | [Dia 03]() | [Dia 04]() | [Dia 05]() | 
+| [Home](https://techlipe.github.io/workshop-zero-to-hero) | [Dia 01](https://techlipe.github.io/workshop-zero-to-hero/dia01-configuracoes) | [Dia 02](https://techlipe.github.io/workshop-zero-to-hero/dia02-observabilidade) | [Dia 03](https://techlipe.github.io/workshop-zero-to-hero/dia03-elasticsearch) | [Dia 04](https://techlipe.github.io/workshop-zero-to-hero/dia04-logstash) | [Dia 05](https://techlipe.github.io/workshop-zero-to-hero/dia05-kibana) | 
 
 # Workshop Elastic - Zero to Hero (Dia 1)
 * **Criado por:** Anselmo Borges<br>
