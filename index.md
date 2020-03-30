@@ -8,11 +8,9 @@ Aqui você encontrará toda a documentação oficial de todos os Workshops.
 
 **Cronograma**
 
-| Data | Assunto |Conceito	| Detalhes
-| :---: | :---: | :---: | :---: |
 
 | Data | Assunto | Conceito	| Detalhes | Mentor
-| :---: | :---: | :---: | :---: | | :---: |
+| :---: | :---: | :---: | :---: | :---: |
 | 06/04/2020 | Apresentação Elastic + Como começar com a Stack e Provisionar todo Ambiente | Elastic Stack | Apresentação + Provisionando Ambiente no GCP Utilizando Docker Compose | Anselmo Borges
 
 **Pra quem é esse material ?** 
