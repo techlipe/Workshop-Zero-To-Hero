@@ -10,9 +10,9 @@ Aqui você encontrará toda a documentação oficial do Workshop que rolou no di
 **Objetivo?** 
 - Abordar os conceitos iniciais dos principais produtos da Elastic e realizar laboratórios práticos com cada um dos produtos em cenários diferentes.
 
-**Organizadores ** 
+**Organizadores** 
 - Anselmo Borges, [linkedin](https://www.linkedin.com/in/felipe-queiroz-b83042113/) [github](https://github.com/anselmoborges) 
 - Felipe Queiroz, Embaixador e Engenheiro Certificado Elastic! [linkedin](https://www.linkedin.com/in/felipe-queiroz-b83042113/) [github](https://github.com/techlipe/)
 
-**Apoio **
+**Apoio**
 - Priscilla Parodi, Advocate para @Elastic
