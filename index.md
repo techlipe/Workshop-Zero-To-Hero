@@ -2,7 +2,9 @@
 
 ## Elastic Virtual Week - Workshop: Zero to Hero
 
-Aqui você encontrará toda a documentação oficial do Workshop que rolou no dia 06/04/2020 até 10/04/2020 :D
+Uma hora por dia durante uma semana. Workshop Virtual sobre o Stack da Elastic (Elasticsearch, Kibana, Logstash e Beats). Aprenda desde o básico a utilizar o Stack da Elastic e saia dessa semana com um projeto prático já aplicado e funcionando. Se inscreva e participe!
+
+Aqui você encontrará toda a documentação oficial de todos os Workshops.
 
 **Pra quem é esse material ?** 
 - **TODO MUNDO** que participou do Workshop e também quem não conseguiu comparecer, aqui ta a documentação de todos os labs que fizemos nesses dias!
