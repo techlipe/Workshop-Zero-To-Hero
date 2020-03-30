@@ -12,7 +12,7 @@ Aqui você encontrará toda a documentação oficial de todos os Workshops.
 | Data | Assunto | Ferramenta	| Detalhes | Mentor
 | :---: | :---: | :---: | :---: | :---: |
 | 06/04/2020 | Apresentação Elastic + Provisionamento e Instalação | Elastic Stack | Apresentação da @Elastic + Provisionando Ambiente no GCP Utilizando Docker Compose | Anselmo Borges
-| 07/04/2020 | Observabilidade - Fundamentos + Monitorando Métricas e Logs | Beats + APM | .- Apresentação sobre os conceitos de Observabilidade com a Stack - Monitorando métricas de containeres que estão rodando os serviços da Stack - Inicializando o Nginx Http Server e Monitorando metricas e access_log | Felipe Queiroz e Anselmo Borges
+| 07/04/2020 | Observabilidade | Beats + APM | .- Apresentação sobre os conceitos de Observabilidade com a Stack - Monitorando métricas de containeres que estão rodando os serviços da Stack - Inicializando o Nginx Http Server e Monitorando metricas e access_log | Felipe Queiroz e Anselmo Borges
 | 08/04/2020 | Conhecendo o Elasticsearch | Elasticsearch | Aprenderemos na teoria e na prática os fundamentos do Elasticsearch - Mapeamentos - Índices - Buscas | Felipe Queiroz
 | 09/04/2020 | Conhecendo o Logstash | Logstash | Criaremos o primeiro pipeline de ingestão de dados para processar logs! | Felipe Queiroz e Anselmo Borges
 | 10/04/2020 | Conhecendo o Kibana | Kibana | Com os dados ingeridos no Logstash no dia anterior, criaremos nossos primeiros dashboards para análise dos Dados no Kibana! | Felipe Queiroz
