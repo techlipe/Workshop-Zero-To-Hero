@@ -8,7 +8,7 @@ Aqui você encontrará toda a documentação oficial de todos os Workshops.
 
 **Cronograma**
 
-| Componente | Aplicação Prática |Nome do Conteúdo	| Data de Publicação
+| Data | Assunto |Conceito	| Detalhes
 | :---: | :---: | :---: | :---: |
 
 | Data | Assunto | Conceito	| Detalhes | Mentor
