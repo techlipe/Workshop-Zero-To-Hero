@@ -9,7 +9,7 @@ Aqui você encontrará toda a documentação oficial de todos os Workshops.
 **Cronograma**
 
 
-| Data | Assunto | Conceito	| Detalhes | Mentor
+| Data | Assunto | Ferramenta	| Detalhes | Mentor
 | :---: | :---: | :---: | :---: | :---: |
 | 06/04/2020 | Apresentação Elastic + Provisionamento e Instalação | Elastic Stack | Apresentação da @Elastic + Provisionando Ambiente no GCP Utilizando Docker Compose | Anselmo Borges
 | 07/04/2020 | Observabilidade - Fundamentos + Monitorando Métricas e Logs | Beats + APM | .- Apresentação sobre os conceitos de Observabilidade com a Stack - Monitorando métricas de containeres que estão rodando os serviços da Stack - Inicializando o Nginx Http Server e Monitorando metricas e access_log | Felipe Queiroz e Anselmo Borges
