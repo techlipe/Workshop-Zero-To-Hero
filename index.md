@@ -2,7 +2,7 @@
 
 # Elastic Virtual Week - Workshop: Zero to Hero
 
-[![](https://github.com/AnselmoBorges/zerotohero/blob/master/Slide1.jpg)](https://youtu.be/3PldhJq3ANc "Criação da infra no Google Cloud")
+![slide](https://github.com/AnselmoBorges/zerotohero/blob/master/Slide1.jpg)
 
 Uma hora por dia durante uma semana. Workshop Virtual sobre o Stack da Elastic (Elasticsearch, Kibana, Logstash e Beats). Aprenda desde o básico a utilizar o Stack da Elastic e saia dessa semana com um projeto prático já aplicado e funcionando. Se inscreva e participe!
 
@@ -26,9 +26,9 @@ Aqui você encontrará toda a documentação oficial de todos os Workshops.
 - Abordar os conceitos iniciais dos principais produtos da Elastic e realizar laboratórios práticos com cada um dos produtos em cenários diferentes.
 
 **Antes de Começar** 
-- **Infraestrutura**: Estamos utilizando a Infra da GCP para provisionar o nosso servidor.
-- **Dataset**: Já deixar no esquema esse dataset porque utilizaremos mais pra frente.
-- **Arquivos apoio**: Baixe também esse arquivo aqui para nosso lab de Logstash.
+- **Infraestrutura**: Estamos utilizando um servidor CentOS 7 na Infra da Google Cloud. Você pode conferir o passo a passo para provisionar o seu ambiente na documentação do Dia 01!
+- **Dataset**: Já deixar no esquema o dataset de filmes que está nesse link para utilizarmos no dia de Logstash!
+- **Arquivos Utilizados**: Caso queira consultar os arquivos de configuração utilizados, pode conferir nesse link aqui.
 
 
 **Observações** 
