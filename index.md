@@ -2,7 +2,7 @@
 
 # Elastic Virtual Week - Workshop: Zero to Hero
 
-![slide](https://github.com/AnselmoBorges/zerotohero/blob/master/Slide1.jpg)
+![slide](Slide1.jpg)
 
 Uma hora por dia durante uma semana. Workshop Virtual sobre o Stack da Elastic (Elasticsearch, Kibana, Logstash e Beats). Aprenda desde o básico a utilizar o Stack da Elastic e saia dessa semana com um projeto prático já aplicado e funcionando. Se inscreva e participe!
 
