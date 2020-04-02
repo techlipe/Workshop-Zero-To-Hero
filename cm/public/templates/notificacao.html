@@ -1,0 +1,5 @@
+<div class="notificacao-group" layout="column" layout-align="{{align}}">
+    <div data-ng-repeat="option in mensagensAtivas" ng-class="option.type" class="notificacao" ng-click="removerMensagem(option)">
+        <span ng-bind="option.message"></span>
+    </div>
+</div>

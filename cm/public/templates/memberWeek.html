@@ -1,0 +1,8 @@
+<md-list>
+    <md-list-item class="md-3-line" ng-repeat="point in memberWeekCtrl.points">
+        <div class="md-list-item-text" layout="row" flex>
+            <h4>{{point.date | date : 'dd/MM/yyyy'}} - {{point.reason}}</h4>
+        </div>
+        <md-divider ng-if="!$last"></md-divider>
+    </md-list-item>
+</md-list>

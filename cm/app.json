@@ -1,0 +1,7 @@
+{
+  "name": "Trofeu CM",
+  "description": "Trofeu CM",
+  "repository": "https://git.heroku.com/trofeucm",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}

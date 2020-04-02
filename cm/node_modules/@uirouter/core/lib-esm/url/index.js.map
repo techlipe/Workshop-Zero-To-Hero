@@ -1,0 +1,13 @@
+{
+  "version": 3,
+  "file": "index.js",
+  "sourceRoot": "",
+  "sources": [
+    "@uirouter/core/url/index.ts"
+  ],
+  "names": [],
+  "mappings": "AAKA,cAAc,cAAc,CAAC;AAC7B,cAAc,qBAAqB,CAAC;AACpC,cAAc,aAAa,CAAC;AAC5B,cAAc,WAAW,CAAC;AAC1B,cAAc,cAAc,CAAC",
+  "sourcesContent": [
+    "/**\n * @coreapi\n * @module url\n */ /** for typedoc */\nexport * from './interface';\nexport * from './urlMatcher';\nexport * from './urlMatcherFactory';\nexport * from './urlRouter';\nexport * from './urlRule';\nexport * from './urlService';\n"
+  ]
+}

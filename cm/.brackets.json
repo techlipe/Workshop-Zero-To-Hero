@@ -1,0 +1,26 @@
+{
+    "dakaraphi.project.filefilter.filterSetActive": "javascript_project",
+    "dakaraphi.project.filefilter.filterSets":  [
+        {
+            "name": "javascript_project",
+            "filters": [
+                {
+                    "regex": "\\.classpath|\\.jazzignore|\\.project|\\.log",
+                    "action": "exclude",
+                    "filterBy": "filename"
+                },
+                {
+                    "regex": "\\.settings|node_modules|project_test",
+                    "action": "exclude",
+                    "filterBy": "directory"
+                }
+            ]
+        }
+    ],
+    "language": {
+        "javascript": {
+            "linting.prefer": ["ESLint"],
+            "linting.usePreferredOnly": true
+        }
+    }
+}

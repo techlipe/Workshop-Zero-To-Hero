@@ -1,0 +1,21 @@
+<div layout="row" layout-align="start" flex>
+    <md-input-container flex>
+        <label>Membro</label>
+        <md-select ng-model="rpCtrl.report.name" aria-label="Membro" md-on-close="searchTerm = '';">
+            <md-select-header class="select-header">
+                <input ng-model="searchTerm" type="search" placeholder="Procure pelo nome" class="header-searchbox md-text">
+            </md-select-header>
+            <md-optgroup label="members">
+                <md-option ng-repeat="member in rpCtrl.members | filter:{name:searchTerm} | orderBy:'name'" ng-value="member.name">
+                    {{member.name}}
+                </md-option>
+            </md-optgroup>
+        </md-select>
+    </md-input-container>
+    <md-button class="md-raised md-primary" ng-click="rpCtrl.newMember($event)">Novo Membro</md-button>
+</div>
+<md-input-container class="md-block">
+    <label>Motivo</label>
+    <textarea ng-model="rpCtrl.report.reason" md-maxlength="256" rows="5"></textarea>
+</md-input-container>
+<md-button class="md-raised md-primary" ng-click="rpCtrl.validateAndSend()">Enviar</md-button>

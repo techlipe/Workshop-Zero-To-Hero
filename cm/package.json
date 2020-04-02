@@ -1,0 +1,47 @@
+{
+    "name": "trofeucm",
+    "version": "1.0.0",
+    "description": "Sistema de controle de pontuação de Cooperação Mutua",
+    "main": "index.js",
+    "engines": {
+        "node": "10.x"
+    },
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://git.heroku.com/trofeucm.git"
+    },
+    "author": "https://github.com/vitorsss",
+    "license": "Apache-2.0",
+    "eslintConfig": {
+        "env": {
+            "browser": true,
+            "node": true,
+            "es6": true
+        }
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "^5.1.0",
+        "angular": "^1.7.2",
+        "angular-animate": "^1.7.2",
+        "angular-aria": "^1.7.2",
+        "angular-material": "^1.1.10",
+        "angular-messages": "^1.7.2",
+        "angular-sanitize": "^1.7.2",
+        "angular-ui-router": "^1.0.18",
+        "body-parser": "^1.18.3",
+        "elastic-apm-node": "^3.5.0",
+        "express": "^4.16.3",
+        "log": "^1.4.0",
+        "moment": "^2.22.2",
+        "mongodb": "^3.1.1"
+    },
+    "keywords": [
+        "node",
+        "heroku",
+        "express"
+    ]
+}

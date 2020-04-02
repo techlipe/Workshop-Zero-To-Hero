@@ -1,0 +1,30 @@
+<div ng-if="cmCtrl.sumPointsThisWeek && cmCtrl.sumPointsThisWeek.length">
+    <h3>Pontuação atual</h3>
+    <md-list>
+        <md-list-item ng-repeat="sumPoints in cmCtrl.sumPointsThisWeek | orderBy:'-count'">
+            <div class="md-list-item-text" layout="row" flex>
+                <div flex layout="row">
+                    <md-icon class="fa fa-trophy" style="color: #ffeb00; font-size: 48px; height: 48px" ng-if="$first"></md-icon>
+                    <h4 flex>{{sumPoints.count}} - {{sumPoints.name}}</h4>
+                </div>
+                <md-button aria-label="Listar Pontos" ui-sref="member-points({memberName: sumPoints.name, numWeek: cmCtrl.thisWeek})">Listar Pontos</md-button>
+            </div>
+            <md-divider ng-if="!$last"></md-divider>
+        </md-list-item>
+    </md-list>
+</div>
+<div ng-if="cmCtrl.sumPointsLastWeek && cmCtrl.sumPointsLastWeek.length">
+    <h3>Pontuação semana passada</h3>
+    <md-list>
+        <md-list-item ng-repeat="sumPoints in cmCtrl.sumPointsLastWeek | orderBy:'-count'">
+            <div class="md-list-item-text" layout="row" flex>
+                <div flex layout="row">
+                    <md-icon class="fa fa-trophy" style="color: #ffeb00; font-size: 48px; height: 48px" ng-if="$first"></md-icon>
+                    <h4 flex>{{sumPoints.count}} - {{sumPoints.name}}</h4>
+                </div>
+                <md-button aria-label="Listar Pontos" ui-sref="member-points({memberName: sumPoints.name, numWeek: cmCtrl.lastWeek})">Listar Pontos</md-button>
+            </div>
+            <md-divider ng-if="!$last"></md-divider>
+        </md-list-item>
+    </md-list>
+</div>

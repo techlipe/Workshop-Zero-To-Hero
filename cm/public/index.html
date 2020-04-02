@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html ng-app="cm">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/fontawesome/css/all.css" rel="stylesheet">
+    <link href="/angular-material/angular-material.css" rel="stylesheet">
+    <link href="cm.css" rel="stylesheet">
+</head>
+
+<body>
+    <div layout="column" ng-cloak>
+        <md-toolbar>
+            <div class="md-toolbar-tools">
+                <h1 flex>CM (Cooperação mútua)</h1>
+                <md-button class="md-fab md-primary md-hue-2 toolbar-button" ui-sref-active="md-accent" aria-label="Listar" ui-sref="/">
+                    <md-icon class="fa fa-search fa-2x" aria-hidden="true"></md-icon>
+                </md-button>
+                <md-button class="md-fab md-primary md-hue-2 toolbar-button" ui-sref-active="md-accent" aria-label="Adicionar" ui-sref="register-points">
+                    <md-icon class="fa fa-plus fa-2x" aria-hidden="true"></md-icon>
+                </md-button>
+            </div>
+        </md-toolbar>
+        <notificacao></notificacao>
+        <div layout-padding layout="row">
+            <div flex ui-view></div>
+        </div>
+    </div>
+    <script src="/moment/moment.js"></script>
+    <script src="/angular/angular.js"></script>
+    <script src="/angular-animate/angular-animate.js"></script>
+    <script src="/angular-sanitize/angular-sanitize.js"></script>
+    <script src="/angular-aria/angular-aria.js"></script>
+    <script src="/angular-messages/angular-messages.js"></script>
+    <script src="/angular-material/angular-material.js"></script>
+    <script src="/angular-ui-router/angular-ui-router.js"></script>
+    <script src="cm.js"></script>
+    <script src="directives/notificacao.directive.js"></script>
+    <script src="services/cm.service.js"></script>
+    <script src="services/notificacao.service.js"></script>
+    <script src="controllers/cm.controller.js"></script>
+    <script src="controllers/member.week.controller.js"></script>
+    <script src="controllers/new.member.controller.js"></script>
+    <script src="controllers/register.points.controller.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,25 @@
+<md-dialog aria-label="Novo Membro" layout-padding>
+    <div layout="row">
+        <md-input-container>
+            <label>Nome</label>
+            <input ng-model="nmCtrl.member.name">
+        </md-input-container>
+        <md-chips ng-model="nmCtrl.member.nicknames" placeholder="Adicione um apelido"></md-chips>
+        <md-button class="md-raised md-primary" style="max-height: 45px" ng-click="nmCtrl.validateAndSend()">Salvar</md-button>
+    </div>
+    <div layout="column">
+        <h3>Outros membros</h3>
+        <md-list style="overflow-x: hidden; overflow-y: scroll">
+            <md-list-item class="md-3-line" ng-repeat="member in nmCtrl.members | filter:{name:nmCtrl.member.name} | orderBy:'name'">
+                <div class="md-list-item-text" layout="row" flex>
+                    <div flex>
+                        <h4>{{member.name}}</h4>
+                        <p ng-if="member.nicknames && member.nicknames.length">{{member.nicknames}}</p>
+                    </div>
+                    <md-button class="md-raised md-primary" ng-click="nmCtrl.select(member.name)">Selecionar</md-button>
+                </div>
+                <md-divider ng-if="!$last"></md-divider>
+            </md-list-item>
+        </md-list>
+    </div>
+</md-dialog>
