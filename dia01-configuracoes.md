@@ -56,7 +56,7 @@ docker-compose -version
 ## Baixando esse repositório via Git:
 Para baixar o repositorio com o compose digite o comando abaixo:
 ```
-git clone https://github.com/AnselmoBorges/zerotohero.git
+git clone https://github.com/techlipe/Workshop-Zero-To-Hero.git
 ```
 Entre dentro do diretório baixado:
 ```
