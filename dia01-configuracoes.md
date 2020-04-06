@@ -60,7 +60,7 @@ git clone https://github.com/techlipe/Workshop-Zero-To-Hero.git
 ```
 Entre dentro do diretório baixado:
 ```
-cd zerotohero
+cd Workshop-Zero-To-Hero
 ```
 
 ## Realize o start do deamon do Docker:
