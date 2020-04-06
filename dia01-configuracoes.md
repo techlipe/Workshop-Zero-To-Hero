@@ -4,7 +4,7 @@
 * **Criado por:** Anselmo Borges<br>
 * **Última atualização:** 29.03.2020
 
-[![](/images/dia01-instalacaoeambiente/Slide1.jpg)]
+[![](images/dia01-instalacaoeambiente/Slide1.jpg)]
 
 Nesse repositório estarão dispostos os arquivos necessários para configuração do ambiente, lembrando que vamos subir esse ambiente usando Google Cloud, o custo do mesmo é de responsabilidade do Aluno, estimo que a utilização do mesmo em umas 3 horas dará menos do que 10 reais, portanto lembre-se de excluir o ambiente depois de utilizado, caso contrário ele será cobrado enquanto ligado.
 
@@ -22,7 +22,7 @@ Acho que o processo de cadastro dura menos de 3 min e você já pode usar.
 ## Configuração do servidor:
 Iremos criar um CentOS7 com 1VCPU, 3,75GB de RAM e 20GB de disco. Isso é mais do que o suficiente para nossos testes. Para criar sua maquina faça conforme vídeo abaixo (Clique na imagem para ver):
 
-[![](/images/dia01-instalacaoeambiente/installgcp.jpg)](https://youtu.be/3PldhJq3ANc "Criação da infra no Google Cloud")
+[![](images/dia01-instalacaoeambiente/installgcp.jpg)](https://youtu.be/3PldhJq3ANc "Criação da infra no Google Cloud")
 
 ## Pré requisitos no S.O:
 * Docker instalado
@@ -86,7 +86,7 @@ Podemos acompanhar os logs de inicialização de cada serviço com o comando aba
 sudo docker-compose logs -f
 ```
 Caso haja alguma duvida, segue o link do vídeo com toda essa implantação passo a passo. Clique na imagem!
-[![](/images/dia01-instalacaoeambiente/installkibanaelasticdocker.jpg)](https://youtu.be/aV1euh4B4XE "Instalação do Elasticsearch e Kibana via Docker")
+[![](images/dia01-instalacaoeambiente/installkibanaelasticdocker.jpg)](https://youtu.be/aV1euh4B4XE "Instalação do Elasticsearch e Kibana via Docker")
 
 ## Criação de Cluster no Elastic Cloud:
 Uma outra opção, simples, rápida e eficiente é subir o seu Cluster no ambiente Elastic Cloud, que já vem configurado da maneira adequada, ajustavel de acordo com a sua necessidade, trabalha na infra cloud de sua preferencia (Amazon AWS, Google GCP e Microsoft Azure), e tem um trial de 14 dias sem necessidade de cartão de crédito, somente a conta de email.
@@ -95,7 +95,7 @@ O Cluster já vem como todas as ferramentas da versão licenciada, como Machine 
 
 No vídeo abaixo eu explico como criar a conta trial e subir um cluster básico na infra Elastic Cloud. (Clique na imagem para abrir!)
 
-[![](/images/dia01-instalacaoeambiente/installelasticcloud.jpg)](https://youtu.be/m-aLIWEZyvU "Criação de um cluster na Elastic Cloud")
+[![](images/dia01-instalacaoeambiente/installelasticcloud.jpg)](https://youtu.be/m-aLIWEZyvU "Criação de um cluster na Elastic Cloud")
 
 ## Material Adicional:
 Abaixo, mais algumas possibilidades de instalações que podem auxiliar no caso de não conseguirem o acesso ao Google GCP.
@@ -110,7 +110,7 @@ https://artifacts.elastic.co/downloads/kibana/kibana-7.6.2-windows-x86_64.zip
 Nesse vídeo abaixo explico como realizar a instalação do Elasticsearch e Kibana no Windows (O que eu não recomendo, rs).
 link do video
 
-[![](/images/dia01-instalacaoeambiente/installelasticcloud.jpg)](https://youtu.be/YHra49modNA "Instalação do Elasticsearch e Kibana no Windows")
+[![](images/dia01-instalacaoeambiente/installelasticcloud.jpg)](https://youtu.be/YHra49modNA "Instalação do Elasticsearch e Kibana no Windows")
 
 ## Instalação do Docker e Git no Windows:
 Pra que não conseguir criar uma conta no Google Cloud, uma opção é realizar a instalação via Docker no Windows, lembrando que o recomendado para melhor acompanhamento dos dias de treinamento é fazer no Google Cloud.
