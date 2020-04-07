@@ -4,7 +4,7 @@
 * **Criado por:** Felipe Queiroz e Anselmo Borges <br>
 * **Última atualização:** 05.04.2020
 
-![slide](https://github.com/AnselmoBorges/zerotohero/blob/master/Slide1.jpg)
+![slide](imagens/dia01-instalacaoeambiente/Slide1.jpg)
 
 Fala pessoal! Sejam muito bem vindos ao nosso Dia 02 de Workshop de Zero to Hero com toda a Elastic Stack. Hoje vimos como funciona o conceito de observabilidade e como consumir métricas e logs de algumas aplicações como Apache Web Server e as métricas do próprio docker que está rodando nossos serviços. Além também de implementarmos uma solução para visualizarmos um pouco como funciona o Elastic APM.
 
@@ -31,7 +31,7 @@ Na imagem abaixo temos um exemplo do que é coletado no Metricbeats no Dashboard
 ![Slide2](imagens/dia01-instalacaoeambiente/systemmetrics.png)
 
 Podemos ver o Dashboard de Docker também com os cointainers e outras infos.
-![Slide6](https://github.com/AnselmoBorges/zerotohero/blob/master/imagens/metricdocker.png)
+![Slide6](imagens/dia01-instalacaoeambiente/metricdocker.png)
 
 ## Usando o Filebeats para coletar logs de S.O e alimentar dados para outras ferramentas:
 Agora vamos instalar o Filebeat, uma ferramenta que coleta logs dos mais diversos, Sistema Operacional, Apache, MySQL, Postgres, Kafka e muitos outros, é uma ferramenta perfeita para monitorarmos atividades dos serviços, realizarmos troubleshootings e detectarmos anomalias em combinado com as funções de Machine Learning do próprio Elastic.
@@ -50,7 +50,7 @@ sudo filebeat setup
 sudo service filebeat start
 ```
 Com o Filebeat instalado, podemos ver no dashboards alguns logs, logins SSH, utilizações de sudo.
-![Slide3](https://github.com/AnselmoBorges/zerotohero/blob/master/imagens/filebeat.png)
+![Slide3](imagens/dia01-instalacaoeambiente/filebeat.png)
 
 Mas para maiores informações de segurança apresento-lhes o **Auditbeat**.
 
@@ -69,7 +69,7 @@ sudo service auditbeat start
 ```
 Na imagem podemos ter uma ideia da monitoração.
 
-![Slide4](https://github.com/AnselmoBorges/zerotohero/blob/master/imagens/SIEM.png)
+![Slide4](imagens/dia01-instalacaoeambiente/SIEM.png)
 
 ## Instalando HTTPD e Monitorando métricas e logs do Apache
 **Instalando o Apache (HTTPD) e Verificando o Monitoramento Padrão http://seuipexterno/server-status**
@@ -107,7 +107,7 @@ sudo metricbeat restart
 
 Para você que perdeu algo da live e precisa ver como foi feito, segue um video abaixo que explica (clique na imagem):
 
-[![](https://github.com/AnselmoBorges/zerotohero/blob/master/imagens/beats.jpg)](https://youtu.be/2wFSbVGGS4w "Instalação dos Beats")
+[![](imagens/dia01-instalacaoeambiente/beats.jpg)](https://youtu.be/2wFSbVGGS4w "Instalação dos Beats")
 
 ## Laboratório de APM
 
