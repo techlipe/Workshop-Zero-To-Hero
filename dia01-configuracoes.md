@@ -47,8 +47,8 @@ docker-compose -version
 ```
 
 ## Ambiente do laboratório:
-* ElasticSearch (versão 7.6.1 atualmente) - Onde serão inseridos os dados
-* Kibana (versão 7.6.1 atualmente) - Onde serão dispostos os dashboards e faremos os ajustes do index.
+* ElasticSearch (versão 7.6.2 atualmente) - Onde serão inseridos os dados
+* Kibana (versão 7.6.2 atualmente) - Onde serão dispostos os dashboards e faremos os ajustes do index.
 
 ## Docker compose
 É um arquivo yml que vem com as configurações necessárias para subirmos esses dados em Docker para iniciarmos os trabalhos. Maiores detalhes sobre o conteudo dele, basta ver o vídeo abaixo.
