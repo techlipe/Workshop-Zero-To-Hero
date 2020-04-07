@@ -28,7 +28,7 @@ sudo metricbeat setup
 sudo service metricbeat start
 ```
 Na imagem abaixo temos um exemplo do que é coletado no Metricbeats no Dashboard que ele já configura pra vc!
-![Slide2](https://github.com/AnselmoBorges/zerotohero/blob/master/imagens/systemmetrics.png)
+![Slide2](imagens/dia01-instalacaoeambiente/systemmetrics.png)
 
 Podemos ver o Dashboard de Docker também com os cointainers e outras infos.
 ![Slide6](https://github.com/AnselmoBorges/zerotohero/blob/master/imagens/metricdocker.png)
