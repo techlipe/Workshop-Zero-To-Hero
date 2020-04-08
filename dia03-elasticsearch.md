@@ -64,6 +64,8 @@ O Elasticsearch trabalha com duas camadas de comunicação, uma HTTP REST para a
 
 **Machine Learning Node**
 ![](images/dia03-elasticsearch/ml.jpg)
+
+
 ## Indices
 **Definição 1) Mapeamento e Schema-FREE**
 
