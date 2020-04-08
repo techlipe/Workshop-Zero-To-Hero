@@ -51,19 +51,19 @@ O Elasticsearch trabalha com duas camadas de comunicação, uma HTTP REST para a
 ## Tipos de Nós
 
 **Data Node**
-images/dia03-elasticsearch/data.jpg
+![](images/dia03-elasticsearch/data.jpg)
 
 **Master Node**
-images/dia03-elasticsearch/master.jpg
+![](images/dia03-elasticsearch/master.jpg)
 
 **Ingest Node**
-images/dia03-elasticsearch/ingest.jpg
+![](images/dia03-elasticsearch/ingest.jpg)
 
 **Coordinator Node**
-images/dia03-elasticsearch/coordinator.jpg
+![](images/dia03-elasticsearch/coordinator.jpg)
 
 **Machine Learning Node**
-images/dia03-elasticsearch/ml.jpg
+![](images/dia03-elasticsearch/ml.jpg)
 ## Indices
 **Definição 1) Mapeamento e Schema-FREE**
 
