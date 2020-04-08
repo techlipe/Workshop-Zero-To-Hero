@@ -162,6 +162,8 @@ GET clientes/_search
 
 **Definição 2) Documentos**
 
+![](images/dia03-elasticsearch/documentos.jpg)
+
 A diferença entre PUT e POST se dá na geração do 'id' do documento, no primeiro cenário ele insere um numérico sequencial, já no segundo um hash. 
 
 Exemplo PUT
