@@ -50,16 +50,21 @@ O Elasticsearch trabalha com duas camadas de comunicação, uma HTTP REST para a
 
 ## Tipos de Nós
 
-**Data Node**
+---------------------------------------------------------------------------------------------------------------------------
+![](images/dia03-elasticsearch/data.jpg)
 
+---------------------------------------------------------------------------------------------------------------------------
+![](images/dia03-elasticsearch/master.jpg)
 
-**Master Node**
+---------------------------------------------------------------------------------------------------------------------------
+![](images/dia03-elasticsearch/ingest.jpg)
 
+---------------------------------------------------------------------------------------------------------------------------
+![](images/dia03-elasticsearch/coordinator.jpg)
 
-**Ingest Node**
+---------------------------------------------------------------------------------------------------------------------------
+![](images/dia03-elasticsearch/ml.jpg)
 
-
-**Coordinator Node**
 
 ## Indices
 **Definição 1) Mapeamento e Schema-FREE**
@@ -156,6 +161,8 @@ GET clientes/_search
 ```
 
 **Definição 2) Documentos**
+
+![](images/dia03-elasticsearch/documentos.jpg)
 
 A diferença entre PUT e POST se dá na geração do 'id' do documento, no primeiro cenário ele insere um numérico sequencial, já no segundo um hash. 
 
