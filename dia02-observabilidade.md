@@ -102,7 +102,7 @@ sudo metricbeat modules enable apache
 
 **Reiniciar Serviço do Metricbeat**
 ```
-sudo metricbeat restart
+sudo service metricbeat restart
 ```
 
 Para você que perdeu algo da live e precisa ver como foi feito, segue um video abaixo que explica (clique na imagem):
