@@ -4,7 +4,7 @@
 * **Criado por:** Felipe Queiroz <br>
 * **Última atualização:** 01.04.2020
 
-![slide](https://github.com/AnselmoBorges/zerotohero/blob/master/Slide1.jpg)
+"[](images/dia01-instalacaoeambiente/Slide1.jpg)
 
 Fala pessoal! Sejam muito bem vindos ao nosso Dia 04 de Workshop de Zero to Hero com toda a Elastic Stack. Hoje vimos como funciona o logstash e os pipelines de ingestão de dados. Antes de começar a seguir o nosso tutorial não esqueça de baixar o dataset de filmes no repositorio git do Workshop ;)
 
@@ -118,7 +118,7 @@ bin/logstash -f pipelines/meupipeline.conf
 Antes de começarmos vale lembrar que o Grok Debugger é um plugin de filtro que possibilita que transformemos um log despadronizado em um documento no formato json que pode ser indexado e futuramente buscado em campos no Elasticsearch.
 
 **Acessar a console do Kibana > Dev Tools > Grok Debugger**
-![](images/dia04-logstash/grokdebuggerdevtools.JPG)
+![](images/dia04-logstash/grokdebuggerdevtools.jpeg)
 **Em sample data colocar o trecho abaixo:**
 ```
 [2020–04–09] INFO MensagemdoLOG: You Know for Search
@@ -426,5 +426,5 @@ bin/logstash
 GET logstash-movies/_search
 ```
 **Validando via API o resultado**
-![](images/dia04-logstash/resultadofinaldia04.JPG)
+![](images/dia04-logstash/resultadofinaldia04.jpeg)
 
