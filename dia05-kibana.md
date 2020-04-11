@@ -4,6 +4,9 @@
 * **Criado por:** Felipe Queiroz e Anselmo Borges <br>
 * **Última atualização:** 10.04.2020
 
+https://www.youtube.com/watch?v=ucPmeX8Zx-Y&t=3903s
+
+
 [](images/dia01-instalacaoeambiente/Slide1.jpg)
 
 O tutorial de hoje será um pouco diferente, vamos seguir 100% pelo vídeo para realizar a construção dos dashboards no Kibana tradicional e no Kibana Canvas.
