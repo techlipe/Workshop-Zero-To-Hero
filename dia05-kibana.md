@@ -10,3 +10,37 @@ O tutorial de hoje será um pouco diferente, vamos seguir 100% pelo vídeo para 
 
 A documentação consistira no vídeo (que colocaremos aqui nessa página assim que acabar o evento) e nas configurações de alguns campos.
 
+**Código do Markdown do poster do filme**
+```
+
+{{#each rows}}
+
+![](http://image.tmdb.org/t/p/w185{{poster_path}})
+
+{{/each}}
+
+```
+
+**Código do Markdown do titutlo do filme**
+```
+{{#each rows}}
+
+{{title}}
+
+{{/each}}
+
+```
+
+**Cores Utilizadas**
+```
+Background -  #10537D
+Barra superior - #156BA1
+Letras Superiores - BRANCO
+Seta - fill (#a1ded7) border(#45bdb0)
+Square dos Filmes - fill (#72cec3)
+```
+
+**Resultado Final** 
+![](images/dia05-kibana/canvas_resultado_final.JPG)
+
+**Parabéns a você que realizou tudo até aqui :)**
