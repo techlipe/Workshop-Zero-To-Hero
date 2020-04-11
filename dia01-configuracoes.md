@@ -4,7 +4,9 @@
 * **Criado por:** Anselmo Borges<br>
 * **Última atualização:** 29.03.2020
 
-[![](images/dia01-instalacaoeambiente/Slide1.jpg)]
+![](images/dia01-instalacaoeambiente/Slide1.jpg)
+
+https://www.youtube.com/watch?v=ZtEietwdp9o&t=1311s
 
 Nesse repositório estarão dispostos os arquivos necessários para configuração do ambiente, lembrando que vamos subir esse ambiente usando Google Cloud, o custo do mesmo é de responsabilidade do Aluno, estimo que a utilização do mesmo em umas 3 horas dará menos do que 10 reais, portanto lembre-se de excluir o ambiente depois de utilizado, caso contrário ele será cobrado enquanto ligado.
 
