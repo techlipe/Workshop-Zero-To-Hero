@@ -20,24 +20,17 @@ A documentação consistira no vídeo (que colocaremos aqui nessa página assim 
 **Código do Markdown do poster do filme**
 
 ```
-
 {{#each rows}}
-
 ![](http://image.tmdb.org/t/p/w185{{poster_path}})
-
 {{/each}}
-
 ```
 
 **Código do Markdown do titutlo do filme**
 
 ```
 {{#each rows}}
-
 {{title}}
-
 {{/each}}
-
 ```
 
 **Cores Utilizadas**
