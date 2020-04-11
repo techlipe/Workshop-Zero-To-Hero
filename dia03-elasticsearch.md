@@ -6,6 +6,8 @@
 
 ![slide](images/dia01-instalacaoeambiente/Slide1.jpg)
 
+https://www.youtube.com/watch?v=oY7Cj1Xzxbg&t=1216s
+
 Fala pessoal! Sejam muito bem vindos ao nosso Dia 04 de Workshop de Zero to Hero com toda a Elastic Stack. Hoje vimos como funciona o Elasticsearch e pudemos entender como que trabalha o coração da Stack, o que são índices, documentos, mapeamentos dentre outros temas que são detalhados nesse documento. Espero que tenha gostado ;) 
 
 
