@@ -6,6 +6,8 @@
 
 ![slide](images/dia01-instalacaoeambiente/Slide1.jpg)
 
+https://www.youtube.com/watch?v=sOSOlQIRgcA
+
 Fala pessoal! Sejam muito bem vindos ao nosso Dia 02 de Workshop de Zero to Hero com toda a Elastic Stack. Hoje vimos como funciona o conceito de observabilidade e como consumir métricas e logs de algumas aplicações como Apache Web Server e as métricas do próprio docker que está rodando nossos serviços. Além também de implementarmos uma solução para visualizarmos um pouco como funciona o Elastic APM.
 
 
