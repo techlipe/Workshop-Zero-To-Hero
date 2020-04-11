@@ -6,6 +6,8 @@
 
 "[](images/dia01-instalacaoeambiente/Slide1.jpg)
 
+https://www.youtube.com/watch?v=_WiXiudMamc&t=1251s
+
 Fala pessoal! Sejam muito bem vindos ao nosso Dia 04 de Workshop de Zero to Hero com toda a Elastic Stack. Hoje vimos como funciona o logstash e os pipelines de ingestão de dados. Antes de começar a seguir o nosso tutorial não esqueça de baixar o dataset de filmes no repositorio git do Workshop ;)
 
 
