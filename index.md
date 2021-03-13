@@ -8,12 +8,12 @@ Uma hora por dia durante uma semana. Workshop Virtual sobre o Stack da Elastic (
 
 Aqui você encontrará toda a documentação oficial de todos os Workshops.
 
-**Cronograma**
+**Cronograma** 
 
 
 | Data | Assunto | Ferramenta	| Detalhes | Mentor
 | :---: | :---: | :---: | :---: | :---: |
-| 06/04/2020 | Apresentação Elastic + Provisionamento e Instalação | Elastic Stack | Apresentação da @Elastic + Provisionando Ambiente no GCP Utilizando Docker Compose | Anselmo Borges
+| 06/04/2020 | Apresentação Elastic + Provisionamento e Instalação | Elastic Stack | Introdução ao Elastic Stack + Provisionando Ambiente no GCP Utilizando Docker Compose | Priscilla Parodi e Anselmo Borges
 | 07/04/2020 | Observabilidade | Beats + APM | .- Apresentação sobre os conceitos de Observabilidade com a Stack - Monitorando Métricas e Logs na prática | Felipe Queiroz e Anselmo Borges
 | 08/04/2020 | Conhecendo o Elasticsearch | Elasticsearch | Aprenderemos na teoria e na prática os fundamentos do Elasticsearch - Mapeamentos - Índices - Buscas | Felipe Queiroz
 | 09/04/2020 | Conhecendo o Logstash | Logstash | Criaremos o primeiro pipeline de ingestão de dados para processar logs! | Felipe Queiroz e Anselmo Borges
@@ -39,4 +39,4 @@ Ao final de cada dia de Workshop, todos os laboratórios serão liberados nesse 
 - Felipe Queiroz, Embaixador e Engenheiro Certificado da @Elastic! [linkedin](https://www.linkedin.com/in/felipe-queiroz-b83042113/) [github](https://github.com/techlipe/)
 
 **Apoio**
-- Priscilla Parodi, Advocate para @Elastic
+- Priscilla Parodi, Advocate da Elastic Latam.[linkedin](https://www.linkedin.com/in/priscillaparodi/) 
